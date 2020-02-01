@@ -6,7 +6,7 @@
 	<meta name="viewpoint" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" href="css/common.css">
 	<link rel="stylesheet" href="css/blog.css">
-	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="font/iconfont.css">
 </head>
 <body>
 <header class="mb-3">
@@ -14,7 +14,7 @@
 		<div class="navbar">
 			<a href="" class="logo">浙江理工大学</a>
 			<label for="toggle-nav">
-				<i class="fa fa-tasks" aria-hidden="true"></i>
+				<i class="iconfont icon-icon-test" aria-hidden="true"></i>
 			</label>
 			<input type="checkbox" id="toggle-nav">
 			<div class="collapse">
