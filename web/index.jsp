@@ -9,30 +9,7 @@
 	<link rel="stylesheet" href="font/iconfont.css">
 </head>
 <body>
-<header class="mb-3">
-	<div class="container">
-		<div class="navbar">
-			<a href="" class="logo">浙江理工大学</a>
-			<label for="toggle-nav">
-				<i class="iconfont icon-icon-test" aria-hidden="true"></i>
-			</label>
-			<input type="checkbox" id="toggle-nav">
-			<div class="collapse">
-				<ul class="links">
-					<li><a href="">在线教程</a></li>
-					<li><a href="">社区讨论</a></li>
-					<li><a href="">八点直播</a></li>
-					<li><a href="">实战课程</a></li>
-				</ul>
-
-				<div class="form">
-					<a href="">登陆</a>
-					<a href="" class="form-bg">注册</a>
-				</div>
-			</div>
-		</div>
-	</div>
-</header>
+<%@ include file="header.jsp" %>
 <div class="container">
 	<div class="row">
 		<div class="col-6 col-lg-9 col-sx-12">
