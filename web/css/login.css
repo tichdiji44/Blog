@@ -1,13 +1,32 @@
-#login-container .row {
-  span: 12; }
+@charset "UTF-8";
+.login-left {
+  position: relative;
+  padding-top: 15px;
+  text-align: center;
+  vertical-align: center; }
+  .login-left img {
+    width: 760px;
+    opacity: 0.8;
+    filter: alpha(opacity=80);
+    /* 针对 IE8 以及更早的版本 */ }
 
-.login-background {
+.login-left:after {
+  position: absolute;
+  content: '';
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  box-shadow: 0 0 50px 30px #ffffff inset; }
+
+.login-left {
   display: none; }
 
+.login-right {
+  padding-top: 15px; }
+
 @media only screen and (min-width: 960px) {
-  .login-background {
-    display: block;
-    background: url("../images/login-background.jpg");
-    background-size: cover; } }
+  .login-left {
+    display: block; } }
 
 /*# sourceMappingURL=login.css.map */

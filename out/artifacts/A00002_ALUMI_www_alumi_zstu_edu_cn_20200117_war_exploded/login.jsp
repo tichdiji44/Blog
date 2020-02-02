@@ -8,9 +8,10 @@
 <%@ include file="header.jsp" %>
 <div id="login-container" class="container">
 	<div class="row">
-		<div class="col-lg-8 col-md-8 login-background">
+		<div class="col-lg-8 col-md-8 login-left">
+			<img src="images/login-background.jpg">
 		</div>
-		<div class="col-lg-4 col-md-12 col-sm-12 col-sx-12">
+		<div class="col-lg-4 col-md-12 col-sm-12 col-sx-12 login-right">
 			qfdae
 		</div>
 	</div>
