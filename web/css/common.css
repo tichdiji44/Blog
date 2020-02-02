@@ -52,4 +52,20 @@ ul {
 .col-1 {
   grid-column: span 1; }
 
+.clearfix:after {
+  content: '.';
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden; }
+
+.clearfix {
+  display: inline-block; }
+
+* html .clearfix {
+  height: 1%; }
+
+.clearfix {
+  display: block; }
+
 /*# sourceMappingURL=common.css.map */

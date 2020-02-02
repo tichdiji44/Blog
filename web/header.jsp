@@ -9,7 +9,6 @@
 <html>
 <head>
 	<title>Header</title>
-	<link rel="stylesheet" href="css/common.css">
 	<link rel="stylesheet" href="css/blog.css">
 	<link rel="stylesheet" href="font/iconfont.css">
 </head>
