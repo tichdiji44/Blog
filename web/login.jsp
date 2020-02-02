@@ -12,7 +12,15 @@
 			<img src="images/login-background.jpg">
 		</div>
 		<div class="col-lg-4 col-md-12 col-sm-12 col-sx-12 login-right">
-			qfdae
+			<form id="login-form" class="login-form">
+				<%--<label for="login-username">用户名：</label>--%>
+				<h1>登陆</h1>
+				<input id="login-username" class="login-input" name="username" type="text" placeholder="邮箱">
+				<br>
+				<input id="login-password" class="login-input" name="password" type="password" placeholder="密码">
+				<br>
+				<a href="">忘记密码？</a>
+			</form>
 		</div>
 	</div>
 </div>
