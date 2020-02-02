@@ -1,0 +1,21 @@
+@charset "UTF-8";
+@import "scssConfig";
+
+#login-container {
+  .row {
+    span: 12;
+  }
+}
+
+.login-background {
+  display: none;
+}
+
+@media only screen and (min-width: 960px) {
+  .login-background {
+    display: block;
+    background: url("../images/login-background.jpg");
+    background-size: cover;
+  }
+
+}
