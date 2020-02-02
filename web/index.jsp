@@ -9,7 +9,7 @@
 </head>
 <body>
 <%@ include file="header.jsp" %>
-<div class="container">
+<div class="container mb-3">
 	<div class="row">
 		<div class="col-6 col-lg-9 col-sx-12">
 			<div class="card">
@@ -69,5 +69,6 @@
 		</div>
 	</div>
 </div>
+<%--<%@include file="footer.jsp" %>--%>
 </body>
 </html>

@@ -1,14 +1,15 @@
-@import "common";
+@charset "UTF-8";
+@import "scssConfig";
 
 header {
-  border-bottom: solid 5px $color;
+  border-bottom: solid 5px $color-main;
   box-shadow: 0 5px 5px rgba(0, 0, 0, 0.2);
   .navbar {
     display: flex;
     padding: 1rem 0;
     align-items: center;
     .logo {
-      color: $color;
+      color: $color-main;
       font-weight: bold;
       margin-right: 20px;
       font-size: 1rem;
@@ -39,12 +40,12 @@ header {
     }
     .form {
       a {
-        border: solid 1px $color;
+        border: solid 1px $color-main;
         border-radius: .3rem;
         padding: .3rem 1rem;
-        color: $color;
+        color: $color-main;
         &.form-bg {
-          background: $color;
+          background: $color-main;
           color: white;
         }
       }
