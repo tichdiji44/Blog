@@ -10,9 +10,9 @@ header {
       font-weight: bold;
       margin-right: 20px;
       font-size: 1rem;
-      &+label {
+      & + label {
         display: none;
-        &+input {
+        & + input {
           display: none;
         }
       }
@@ -67,8 +67,8 @@ header {
           color: #555555;
           cursor: pointer;
 
-          &+input:checked {
-            &+.collapse {
+          & + input:checked {
+            & + .collapse {
               display: block;
             }
           }

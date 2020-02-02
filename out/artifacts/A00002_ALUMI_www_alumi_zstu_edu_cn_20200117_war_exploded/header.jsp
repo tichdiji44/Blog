@@ -17,7 +17,7 @@
 <header class="mb-3">
 	<div class="container">
 		<div class="navbar">
-			<a href="" class="logo">浙江理工大学</a>
+			<a href="" class="logo">追风逐电雨</a>
 			<label for="toggle-nav">
 				<i class="iconfont icon-icon-test" aria-hidden="true"></i>
 			</label>

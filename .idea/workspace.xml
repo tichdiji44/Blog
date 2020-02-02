@@ -7,8 +7,54 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca62466b-d73d-4792-800e-0269fb6b3eb9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/A00002_ALUMI_www_alumi_zstu_edu_cn_20200117_war_exploded/css/big.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/A00002_ALUMI_www_alumi_zstu_edu_cn_20200117_war_exploded/css/card.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/A00002_ALUMI_www_alumi_zstu_edu_cn_20200117_war_exploded/css/common.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/A00002_ALUMI_www_alumi_zstu_edu_cn_20200117_war_exploded/css/list-group.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/A00002_ALUMI_www_alumi_zstu_edu_cn_20200117_war_exploded/css/margin-bottom.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/A00002_ALUMI_www_alumi_zstu_edu_cn_20200117_war_exploded/css/medium.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/A00002_ALUMI_www_alumi_zstu_edu_cn_20200117_war_exploded/css/navbar.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/A00002_ALUMI_www_alumi_zstu_edu_cn_20200117_war_exploded/css/page.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/A00002_ALUMI_www_alumi_zstu_edu_cn_20200117_war_exploded/css/small-x.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/A00002_ALUMI_www_alumi_zstu_edu_cn_20200117_war_exploded/css/small.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/A00002_ALUMI_www_alumi_zstu_edu_cn_20200117_war_exploded/css/title.less" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/A00002_ALUMI_www_alumi_zstu_edu_cn_20200117_war_exploded/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/A00002_ALUMI_www_alumi_zstu_edu_cn_20200117_war_exploded/header.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/big.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/big.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/big.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/big.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/big.less" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/big.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/card.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/card.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/card.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/card.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/card.less" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/card.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/common.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/common.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/common.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/common.less" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/common.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/list-group.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/list-group.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/list-group.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/list-group.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/list-group.less" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/list-group.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/margin-bottom.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/margin-bottom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/margin-bottom.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/margin-bottom.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/margin-bottom.less" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/margin-bottom.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/medium.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/medium.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/medium.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/medium.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/medium.less" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/medium.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/navbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/navbar.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/navbar.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/navbar.less" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/navbar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/page.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/page.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/page.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/page.less" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/small-x.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/small-x.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/small-x.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/small-x.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/small-x.less" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/small-x.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/small.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/small.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/small.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/small.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/small.less" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/small.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/title.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/title.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/title.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/title.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/title.less" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/title.scss" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,34 +74,36 @@
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.32" value="1" />
-          <entry key="project.open.time.37" value="2" />
+          <entry key="project.open.time.37" value="3" />
           <entry key="project.open.time.40" value="1" />
           <entry key="project.open.time.48" value="1" />
           <entry key="project.open.time.50" value="1" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="14" />
+          <entry key="css" value="15" />
           <entry key="html" value="2" />
           <entry key="jsp" value="6" />
           <entry key="less" value="33" />
+          <entry key="scss" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="14" />
+          <entry key="CSS" value="15" />
           <entry key="HTML" value="2" />
           <entry key="JSP" value="6" />
           <entry key="Less" value="33" />
+          <entry key="SCSS" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="347" />
           <entry key="html" value="512" />
-          <entry key="jsp" value="1290" />
+          <entry key="jsp" value="1295" />
           <entry key="less" value="1562" />
         </counts>
       </usages-collector>
@@ -63,7 +111,7 @@
         <counts>
           <entry key="CSS" value="347" />
           <entry key="HTML" value="512" />
-          <entry key="JSP" value="1290" />
+          <entry key="JSP" value="1295" />
           <entry key="Less" value="1562" />
         </counts>
       </usages-collector>
@@ -79,23 +127,23 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+            <state relative-caret-position="228">
+              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/css/page.less">
+        <entry file="file://$PROJECT_DIR$/web/css/page.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
+            <state relative-caret-position="361">
               <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/css/margin-bottom.less">
+        <entry file="file://$PROJECT_DIR$/web/css/margin-bottom.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
               <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
@@ -104,28 +152,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/css/blog.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/header.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+            <state relative-caret-position="608">
+              <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/css/navbar.less">
+        <entry file="file://$PROJECT_DIR$/web/css/big.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="41" column="13" lean-forward="true" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+            <state relative-caret-position="284">
+              <caret line="56" selection-start-line="56" selection-end-line="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/css/navbar.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1710">
+              <caret line="90" column="1" selection-start-line="90" selection-start-column="1" selection-end-line="90" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -177,6 +225,8 @@
         <option value="$PROJECT_DIR$/web/css/navbar.less" />
         <option value="$PROJECT_DIR$/web/index.jsp" />
         <option value="$PROJECT_DIR$/web/header.jsp" />
+        <option value="$PROJECT_DIR$/web/css/big.scss" />
+        <option value="$PROJECT_DIR$/web/css/navbar.scss" />
       </list>
     </option>
   </component>
@@ -237,6 +287,12 @@
               <item name="A00002-ALUMI-www.alumi.zstu.edu.cn-20200117" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="A00002-ALUMI-www.alumi.zstu.edu.cn-20200117" type="b2602c69:ProjectViewProjectNode" />
+              <item name="A00002-ALUMI-www.alumi.zstu.edu.cn-20200117" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -248,7 +304,7 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580558369579" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580607448258" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="Less" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -429,11 +485,12 @@
       <workItem from="1580293453902" duration="2031000" />
       <workItem from="1580348246159" duration="9464000" />
       <workItem from="1580545145450" duration="6414000" />
+      <workItem from="1580606435902" duration="964000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31270000" />
+    <option name="totallyTimeSpent" value="32234000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -447,7 +504,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15743244" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16013514" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -464,7 +521,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32844576" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32991204" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32991204" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Application Servers" order="12" weight="0.32991204" />
@@ -501,56 +558,49 @@
         <state relative-caret-position="-570" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/css/big.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="44" column="1" lean-forward="true" selection-start-line="9" selection-end-line="44" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/css/medium.less">
+    <entry file="file://$PROJECT_DIR$/web/css/medium.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="35" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/css/small.less">
+    <entry file="file://$PROJECT_DIR$/web/css/small.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="836">
           <caret line="44" column="1" lean-forward="true" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/css/small-x.less">
+    <entry file="file://$PROJECT_DIR$/web/css/small-x.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" selection-start-line="5" selection-end-line="40" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/css/common.less">
+    <entry file="file://$PROJECT_DIR$/web/css/common.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="547">
           <caret line="56" column="4" lean-forward="true" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/css/title.less">
+    <entry file="file://$PROJECT_DIR$/web/css/title.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/css/card.less">
+    <entry file="file://$PROJECT_DIR$/web/css/card.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/css/list-group.less">
+    <entry file="file://$PROJECT_DIR$/web/css/list-group.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
@@ -561,52 +611,58 @@
     <entry file="file://$PROJECT_DIR$/web/css/page.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/css/margin-bottom.less">
+    <entry file="file://$PROJECT_DIR$/web/font.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        <state relative-caret-position="228">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/font.jsp">
+    <entry file="file://$PROJECT_DIR$/web/css/page.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="14" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/css/page.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
+        <state relative-caret-position="361">
           <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/css/blog.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
-          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/css/navbar.less">
+    <entry file="file://$PROJECT_DIR$/web/css/big.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="41" column="13" lean-forward="true" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        <state relative-caret-position="-552" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/margin-bottom.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+    <entry file="file://$PROJECT_DIR$/web/css/big.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        <state relative-caret-position="284">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/header.jsp">
+    <entry file="file://$PROJECT_DIR$/web/css/navbar.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        <state relative-caret-position="1710">
+          <caret line="90" column="1" selection-start-line="90" selection-start-column="1" selection-end-line="90" selection-end-column="1" />
         </state>
       </provider>
     </entry>
